@@ -30,7 +30,7 @@ signer_type: local_keystore
 private_key_store_path: /root/.eigenlayer/operator_keys/sanketpatel.ecdsa.key.json
 
 # Full path to local bls private key store file
-bls_private_key_store_path: /root/.eigenlayer/operator_keys/<NAME_KEY>.bls.key.json
+bls_private_key_store_path: /root/.eigenlayer/operator_keys/sanketpatel.bls.key.json
 
 # Chain ID: 1 for mainnet, 5 for Goerli, 31337 for local
 chain_id: 5
