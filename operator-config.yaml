@@ -14,7 +14,7 @@ operator:
  delegation_approver_address: 0x0000000000000000000000000000000000000000
  # Please keep this field to 0, and it can be updated later using EigenLayer CLI
  staker_opt_out_window_blocks: 0
- metadata_url: <METADATA_FILE_RAW>
+ metadata_url: https://raw.githubusercontent.com/ctvogr/EigenLayer/main/metadata.json
 
 # This will be provided by EigenLayer team
 el_slasher_address: 0xD11d60b669Ecf7bE10329726043B3ac07B380C22
